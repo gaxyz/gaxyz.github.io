@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Gaston RIJO DE LEON 
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+#name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Gaston
+last_name: RIJO DE LEON
 
 # Status emoji
 status:
@@ -20,51 +20,49 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Junior Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Institut Pasteur
+    url: https://www.pasteur.fr/ 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:gaston.rijo@gmail.com'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
+  - icon: brands/mastodon
+    url: https://mastodon.la/@gaston
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/gaxyz
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/gaston-rijo-de-leon/ 
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=hJRVL8sAAAAJ 
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-4096-6817
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Evolutionary Genomics
+  - Functional Genomics
+  - Machine Learning
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Computational Biology and Bioinformatics
+    institution: Institut Pasteur - Université Paris Cité
+    date_start: 2021-10-01
+    date_end: 2024-11-30
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://drive.google.com/file/d/1KYwVjxmDWyRIBJaeYMJ_-Bw1Y9Ljo8BR/view?usp=sharing'
+  - area: Masters degree in Bioinformatics
+    institution: Universidad de la República
+    date_start: 2019-05-01
+    date_end: 2021-06-01
     summary: |
       GPA: 3.8/4.0
 
@@ -72,7 +70,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
+  - area: BSc Biochemistry
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
     date_end: 2020-12-31
