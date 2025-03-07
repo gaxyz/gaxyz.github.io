@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
-title: ""
-date: 2022-10-24
+title: "Gaston Rijo De Leon"
+date: 2025-03-07
 type: landing
 
 design:
@@ -24,7 +24,7 @@ sections:
         color: black
         image:
           # Add your image background to `assets/media/`.
-          filename: stacked-peaks.svg
+          filename: stacked-peaks-2.svg
           filters:
             brightness: 1.0
           size: cover
