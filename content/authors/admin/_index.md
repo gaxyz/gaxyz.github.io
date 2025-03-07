@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Gaston RIJO DE LEON 
+title: Gaston Rijo De Leon
 
 # Name pronunciation (optional)
 #name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Gaston
-last_name: RIJO DE LEON
+last_name: Rijo De Leon
 
 # Status emoji
 status:
