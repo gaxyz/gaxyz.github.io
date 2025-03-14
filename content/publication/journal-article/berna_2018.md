@@ -1,5 +1,6 @@
 ---
 title: "Expanding an expanded genome: long-read sequencing of Trypanosoma cruzi"
+authors:
 - Luisa Berná
 - Matías Rodríguez
 author_notes:
